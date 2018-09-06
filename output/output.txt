@@ -1,0 +1,3 @@
+('Ravi', 'San Diego', 'CA', 'cust7', Decimal('59696.0000000000'))
+('Zhang', 'Los Angeles', 'CA', 'cust3', Decimal('47408.4000000000'))
+('John', 'Hopkins', 'MN', 'cust1', Decimal('19250.4000000000'))
